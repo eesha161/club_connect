@@ -1,0 +1,500 @@
+                 "sourceURL" : "file:///Users/srujangogineni/projects/club_connect-main/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDAppCheck/UI/GIDActivityIndicatorViewController.m#EndingColumnNumber=12&EndingLineNumber=33&StartingColumnNumber=12&StartingLineNumber=33&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Semantic Issue",
+                 "message" : "Incompatible pointer types assigning to 'NSString * _Nullable' from 'NSNull * _Nonnull'",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/firebase_core-4.3.0/ios/firebase_core/Sources/firebase_core/FLTFirebaseCorePlugin.m#EndingColumnNumber=34&EndingLineNumber=91&StartingColumnNumber=34&StartingLineNumber=91&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Semantic Issue",
+                 "message" : "Sending 'FLTFirebaseAuthPlugin *__strong' to parameter of incompatible type 'id<FLTFirebasePlugin> _Nonnull'",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/firebase_auth-6.1.3/ios/firebase_auth/Sources/firebase_auth/FLTFirebaseAuthPlugin.m#EndingColumnNumber=71&EndingLineNumber=126&StartingColumnNumber=71&StartingLineNumber=126&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Unused Entity Issue",
+                 "message" : "Unused variable 'capturedCompletion'",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/firebase_auth-6.1.3/ios/firebase_auth/Sources/firebase_auth/FLTFirebaseAuthPlugin.m#EndingColumnNumber=13&EndingLineNumber=407&StartingColumnNumber=13&StartingLineNumber=407&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Unused Entity Issue",
+                 "message" : "Unused variable 'capturedCompletion'",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/firebase_auth-6.1.3/ios/firebase_auth/Sources/firebase_auth/FLTFirebaseAuthPlugin.m#EndingColumnNumber=13&EndingLineNumber=418&StartingColumnNumber=13&StartingLineNumber=418&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Unused Entity Issue",
+                 "message" : "Unused variable 'capturedCompletion'",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/firebase_auth-6.1.3/ios/firebase_auth/Sources/firebase_auth/FLTFirebaseAuthPlugin.m#EndingColumnNumber=13&EndingLineNumber=429&StartingColumnNumber=13&StartingLineNumber=429&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Deprecations",
+                 "message" : "'keyWindow' is deprecated: first deprecated in iOS 13.0 - Should not be used for applications that support multiple scenes as it returns a key window across all connected scenes",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/firebase_auth-6.1.3/ios/firebase_auth/Sources/firebase_auth/FLTFirebaseAuthPlugin.m#EndingColumnNumber=44&EndingLineNumber=833&StartingColumnNumber=44&StartingLineNumber=833&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Deprecations",
+                 "message" : "'fetchSignInMethodsForEmail:completion:' is deprecated: `fetchSignInMethods` is deprecated and will be removed in a future release. This method returns an empty list when Email Enumeration Protection is enabled.",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/firebase_auth-6.1.3/ios/firebase_auth/Sources/firebase_auth/FLTFirebaseAuthPlugin.m#EndingColumnNumber=8&EndingLineNumber=1165&StartingColumnNumber=8&StartingLineNumber=1165&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Deprecations",
+                 "message" : "'updateEmail:completion:' is deprecated: `updateEmail` is deprecated and will be removed in a future release. Use sendEmailVerification(beforeUpdatingEmail:) instead.",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/firebase_auth-6.1.3/ios/firebase_auth/Sources/firebase_auth/FLTFirebaseAuthPlugin.m#EndingColumnNumber=15&EndingLineNumber=1972&StartingColumnNumber=15&StartingLineNumber=1972&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Deprecations",
+                 "message" : "'setIndexConfigurationFromJSON:completion:' is deprecated: Instead of creating cache indexes manually, consider using `PersistentCacheIndexManager.enableIndexAutoCreation()` to let the SDK decide whether to create cache indexes for queries running locally.",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/cloud_firestore-6.1.1/ios/cloud_firestore/Sources/cloud_firestore/FLTFirebaseFirestorePlugin.m#EndingColumnNumber=13&EndingLineNumber=570&StartingColumnNumber=13&StartingLineNumber=570&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTTextDocumentLocation",
+                 "issueType" : "Deprecations",
+                 "message" : "'UNNotificationPresentationOptionAlert' is deprecated: first deprecated in iOS 14.0",
+                 "sourceURL" : "file:///Users/srujangogineni/.pub-cache/hosted/pub.dev/firebase_messaging-16.1.0/ios/firebase_messaging/Sources/firebase_messaging/FLTFirebaseMessagingPlugin.m#EndingColumnNumber=31&EndingLineNumber=376&StartingColumnNumber=31&StartingLineNumber=376&Timestamp=789071551.885663"
+               },
+               {
+                 "className" : "DVTMemberDocumentLocation",
+                 "issueType" : "Warning",
+                 "message" : "The app icon set \"AppIcon\" has 6 unassigned children.",
+                 "sourceURL" : "file:///Users/srujangogineni/projects/club_connect-main/ios/Runner/Assets.xcassets#Timestamp=789074372.536438&XcodeLocation=%7B%22Member%22:%22.%5C/AppIcon.appiconset%5C/(null)%5B2d%5D%5BIcon-App-50x50@1x.png%5D%22%7D"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][3](cloud_firestore-dummy.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][4](FirestoreMessages.g.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][5](FirestorePigeonParser.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][6](FLTDocumentSnapshotStreamHandler.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][7](FLTFirebaseFirestoreExtension.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][8](FLTFirebaseFirestorePlugin.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][9](FLTFirebaseFirestoreReader.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][10](FLTFirebaseFirestoreUtils.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][11](FLTFirebaseFirestoreWriter.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][12](FLTFirestoreClientLanguage.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][13](FLTLoadBundleStreamHandler.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][14](FLTQuerySnapshotStreamHandler.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][15](FLTSnapshotsInSyncStreamHandler.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/cloud_firestore[x86_64][16](FLTTransactionStreamHandler.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/firebase_auth[x86_64][3](firebase_auth-dummy.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/firebase_auth[x86_64][4](firebase_auth_messages.g.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/firebase_auth[x86_64][5](FLTAuthStateChannelStreamHandler.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/firebase_auth[x86_64][6](FLTFirebaseAuthPlugin.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/firebase_auth[x86_64][7](FLTIdTokenChannelStreamHandler.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/firebase_auth[x86_64][8](FLTPhoneNumberVerificationStreamHandler.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/firebase_auth[x86_64][9](PigeonParser.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/firebase_core[x86_64][4](firebase_core-dummy.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/firebase_core[x86_64][5](FLTFirebaseCorePlugin.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/firebase_core[x86_64][6](FLTFirebasePlugin.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/firebase_core[x86_64][7](FLTFirebasePluginRegistry.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/firebase_core[x86_64][8](messages.g.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_messaging/firebase_messaging.framework/firebase_messaging[x86_64][3](firebase_messaging-dummy.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/firebase_messaging/firebase_messaging.framework/firebase_messaging[x86_64][4](FLTFirebaseMessagingPlugin.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/google_sign_in_ios/google_sign_in_ios.framework/google_sign_in_ios[x86_64][3](FLTGoogleSignInPlugin.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/google_sign_in_ios/google_sign_in_ios.framework/google_sign_in_ios[x86_64][4](google_sign_in_ios-dummy.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/google_sign_in_ios/google_sign_in_ios.framework/google_sign_in_ios[x86_64][5](messages.g.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/google_sign_in_ios/google_sign_in_ios.framework/google_sign_in_ios[x86_64][6](WrapperProtocolImplementations.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               },
+               {
+                 "issueType" : "Warning",
+                 "message" : "Object file (/Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/Pods_Runner.framework/Pods_Runner[x86_64][3](Pods-Runner-dummy.o)) was built for newer 'iOS-simulator' version (15.0) than being linked (13.0)"
+               }
+             ]
+           }
+[   +6 ms] executing: rsync -8 -av --delete /Users/srujangogineni/projects/club_connect-main/build/ios/Debug-iphonesimulator/Runner.app /Users/srujangogineni/projects/club_connect-main/build/ios/iphonesimulator
+[ +399 ms] Transfer starting: 412 files
+           Runner.app/
+           Runner.app/Info.plist
+           Runner.app/Runner
+           Runner.app/Runner.debug.dylib
+           Runner.app/__preview.dylib
+           Runner.app/Frameworks/AppAuth.framework/
+           Runner.app/Frameworks/AppAuth.framework/AppAuth
+           Runner.app/Frameworks/AppAuth.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/AppCheckCore.framework/
+           Runner.app/Frameworks/AppCheckCore.framework/AppCheckCore
+           Runner.app/Frameworks/AppCheckCore.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FBLPromises.framework/
+           Runner.app/Frameworks/FBLPromises.framework/FBLPromises
+           Runner.app/Frameworks/FBLPromises.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseAppCheckInterop.framework/
+           Runner.app/Frameworks/FirebaseAppCheckInterop.framework/FirebaseAppCheckInterop
+           Runner.app/Frameworks/FirebaseAppCheckInterop.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseAuth.framework/
+           Runner.app/Frameworks/FirebaseAuth.framework/FirebaseAuth
+           Runner.app/Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseAuthInterop.framework/
+           Runner.app/Frameworks/FirebaseAuthInterop.framework/FirebaseAuthInterop
+           Runner.app/Frameworks/FirebaseAuthInterop.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseCore.framework/
+           Runner.app/Frameworks/FirebaseCore.framework/FirebaseCore
+           Runner.app/Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseCoreExtension.framework/
+           Runner.app/Frameworks/FirebaseCoreExtension.framework/FirebaseCoreExtension
+           Runner.app/Frameworks/FirebaseCoreExtension.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseCoreInternal.framework/
+           Runner.app/Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal
+           Runner.app/Frameworks/FirebaseCoreInternal.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseFirestore.framework/
+           Runner.app/Frameworks/FirebaseFirestore.framework/FirebaseFirestore
+           Runner.app/Frameworks/FirebaseFirestore.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseFirestoreInternal.framework/
+           Runner.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal
+           Runner.app/Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseInstallations.framework/
+           Runner.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations
+           Runner.app/Frameworks/FirebaseInstallations.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseMessaging.framework/
+           Runner.app/Frameworks/FirebaseMessaging.framework/FirebaseMessaging
+           Runner.app/Frameworks/FirebaseMessaging.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/FirebaseSharedSwift.framework/
+           Runner.app/Frameworks/FirebaseSharedSwift.framework/FirebaseSharedSwift
+           Runner.app/Frameworks/FirebaseSharedSwift.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/GTMAppAuth.framework/
+           Runner.app/Frameworks/GTMAppAuth.framework/GTMAppAuth
+           Runner.app/Frameworks/GTMAppAuth.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/GTMSessionFetcher.framework/
+           Runner.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher
+           Runner.app/Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/GoogleDataTransport.framework/
+           Runner.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport
+           Runner.app/Frameworks/GoogleDataTransport.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/GoogleSignIn.framework/
+           Runner.app/Frameworks/GoogleSignIn.framework/GoogleSignIn
+           Runner.app/Frameworks/GoogleSignIn.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/GoogleUtilities.framework/
+           Runner.app/Frameworks/GoogleUtilities.framework/GoogleUtilities
+           Runner.app/Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/RecaptchaInterop.framework/
+           Runner.app/Frameworks/RecaptchaInterop.framework/RecaptchaInterop
+           Runner.app/Frameworks/RecaptchaInterop.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/absl.framework/
+           Runner.app/Frameworks/absl.framework/absl
+           Runner.app/Frameworks/absl.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/add_2_calendar.framework/
+           Runner.app/Frameworks/add_2_calendar.framework/add_2_calendar
+           Runner.app/Frameworks/add_2_calendar.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/flutter_keyboard_visibility_temp_fork.framework/
+           Runner.app/Frameworks/flutter_keyboard_visibility_temp_fork.framework/flutter_keyboard_visibility_temp_fork
+           Runner.app/Frameworks/flutter_keyboard_visibility_temp_fork.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/flutter_native_splash.framework/
+           Runner.app/Frameworks/flutter_native_splash.framework/flutter_native_splash
+           Runner.app/Frameworks/flutter_native_splash.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/grpc.framework/
+           Runner.app/Frameworks/grpc.framework/grpc
+           Runner.app/Frameworks/grpc.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/grpcpp.framework/
+           Runner.app/Frameworks/grpcpp.framework/grpcpp
+           Runner.app/Frameworks/grpcpp.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/leveldb.framework/
+           Runner.app/Frameworks/leveldb.framework/leveldb
+           Runner.app/Frameworks/leveldb.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/mobile_scanner.framework/
+           Runner.app/Frameworks/mobile_scanner.framework/mobile_scanner
+           Runner.app/Frameworks/mobile_scanner.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/nanopb.framework/
+           Runner.app/Frameworks/nanopb.framework/nanopb
+           Runner.app/Frameworks/nanopb.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/openssl_grpc.framework/
+           Runner.app/Frameworks/openssl_grpc.framework/openssl_grpc
+           Runner.app/Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/path_provider_foundation.framework/
+           Runner.app/Frameworks/path_provider_foundation.framework/path_provider_foundation
+           Runner.app/Frameworks/path_provider_foundation.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/printing.framework/
+           Runner.app/Frameworks/printing.framework/printing
+           Runner.app/Frameworks/printing.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/share_plus.framework/
+           Runner.app/Frameworks/share_plus.framework/share_plus
+           Runner.app/Frameworks/share_plus.framework/_CodeSignature/CodeResources
+           Runner.app/Frameworks/shared_preferences_foundation.framework/
+           Runner.app/Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation
+           Runner.app/Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources
+           Runner.app/_CodeSignature/CodeResources
+
+           sent 100284528 bytes  received 1836 bytes  285634759 bytes/sec
+           total size is 227659433  speedup is 2.27
+[   +2 ms] executing: xcrun simctl install 0B25D54B-D719-44D6-9A89-0AC591C92EEF /Users/srujangogineni/projects/club_connect-main/build/ios/iphonesimulator/Runner.app
+[+1042 ms] executing: /usr/bin/plutil -convert xml1 -o - /Users/srujangogineni/projects/club_connect-main/build/ios/iphonesimulator/Runner.app/Info.plist
+[  +12 ms] Exit code 0 from: /usr/bin/plutil -convert xml1 -o - /Users/srujangogineni/projects/club_connect-main/build/ios/iphonesimulator/Runner.app/Info.plist
+[        ] <?xml version="1.0" encoding="UTF-8"?>
+           <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+           <plist version="1.0">
+           <dict>
+           	<key>BuildMachineOSBuild</key>
+           	<string>24E263</string>
+           	<key>CADisableMinimumFrameDurationOnPhone</key>
+           	<true/>
+           	<key>CFBundleDevelopmentRegion</key>
+           	<string>en</string>
+           	<key>CFBundleDisplayName</key>
+           	<string>Club Connect</string>
+           	<key>CFBundleExecutable</key>
+           	<string>Runner</string>
+           	<key>CFBundleIcons</key>
+           	<dict>
+           		<key>CFBundlePrimaryIcon</key>
+           		<dict>
+           			<key>CFBundleIconFiles</key>
+           			<array>
+           				<string>AppIcon60x60</string>
+           			</array>
+           			<key>CFBundleIconName</key>
+           			<string>AppIcon</string>
+           		</dict>
+           	</dict>
+           	<key>CFBundleIcons~ipad</key>
+           	<dict>
+           		<key>CFBundlePrimaryIcon</key>
+           		<dict>
+           			<key>CFBundleIconFiles</key>
+           			<array>
+           				<string>AppIcon60x60</string>
+           				<string>AppIcon76x76</string>
+           			</array>
+           			<key>CFBundleIconName</key>
+           			<string>AppIcon</string>
+           		</dict>
+           	</dict>
+           	<key>CFBundleIdentifier</key>
+           	<string>com.example.clubConnect</string>
+           	<key>CFBundleInfoDictionaryVersion</key>
+           	<string>6.0</string>
+           	<key>CFBundleName</key>
+           	<string>club_connect</string>
+           	<key>CFBundlePackageType</key>
+           	<string>APPL</string>
+           	<key>CFBundleShortVersionString</key>
+           	<string>1.0.0</string>
+           	<key>CFBundleSignature</key>
+           	<string>????</string>
+           	<key>CFBundleSupportedPlatforms</key>
+           	<array>
+           		<string>iPhoneSimulator</string>
+           	</array>
+           	<key>CFBundleURLTypes</key>
+           	<array>
+           		<dict>
+           			<key>CFBundleTypeRole</key>
+           			<string>Editor</string>
+           			<key>CFBundleURLSchemes</key>
+           			<array>
+           				<string>com.googleusercontent.apps.189700476090-htt43b5l4hejive5ahj1b6blequv99m9</string>
+           			</array>
+           		</dict>
+           	</array>
+           	<key>CFBundleVersion</key>
+           	<string>1</string>
+           	<key>DTCompiler</key>
+           	<string>com.apple.compilers.llvm.clang.1_0</string>
+           	<key>DTPlatformBuild</key>
+           	<string>22E235</string>
+           	<key>DTPlatformName</key>
+           	<string>iphonesimulator</string>
+           	<key>DTPlatformVersion</key>
+           	<string>18.4</string>
+           	<key>DTSDKBuild</key>
+           	<string>22E235</string>
+           	<key>DTSDKName</key>
+           	<string>iphonesimulator18.4</string>
+           	<key>DTXcode</key>
+           	<string>1630</string>
+           	<key>DTXcodeBuild</key>
+           	<string>16E140</string>
+           	<key>LSRequiresIPhoneOS</key>
+           	<true/>
+           	<key>MinimumOSVersion</key>
+           	<string>13.0</string>
+           	<key>NSBonjourServices</key>
+           	<array>
+           		<string>_dartVmService._tcp</string>
+           	</array>
+           	<key>NSLocalNetworkUsageDescription</key>
+           	<string>Allow Flutter tools on your computer to connect and debug your application. This prompt will not appear on release builds.</string>
+           	<key>UIApplicationSupportsIndirectInputEvents</key>
+           	<true/>
+           	<key>UIDeviceFamily</key>
+           	<array>
+           		<integer>1</integer>
+           		<integer>2</integer>
+           	</array>
+           	<key>UILaunchStoryboardName</key>
+           	<string>LaunchScreen</string>
+           	<key>UIMainStoryboardFile</key>
+           	<string>Main</string>
+           	<key>UIStatusBarHidden</key>
+           	<false/>
+           	<key>UISupportedInterfaceOrientations</key>
+           	<array>
+           		<string>UIInterfaceOrientationPortrait</string>
+           		<string>UIInterfaceOrientationLandscapeLeft</string>
+           		<string>UIInterfaceOrientationLandscapeRight</string>
+           	</array>
+           	<key>UISupportedInterfaceOrientations~ipad</key>
+           	<array>
+           		<string>UIInterfaceOrientationPortrait</string>
+           		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+           		<string>UIInterfaceOrientationLandscapeLeft</string>
+           		<string>UIInterfaceOrientationLandscapeRight</string>
+           	</array>
+           </dict>
+           </plist>
+[   +7 ms] executing: xcrun simctl launch 0B25D54B-D719-44D6-9A89-0AC591C92EEF com.example.clubConnect --enable-dart-profiling --enable-checked-mode --verify-entry-points
+[ +222 ms] com.example.clubConnect: 76568
+[        ] Waiting for VM Service port to be available...
+[ +897 ms] VM Service URL on device: http://127.0.0.1:64955/OsAHIhJmlLk=/
+[   +3 ms] Caching compiled dill
+[ +123 ms] Connecting to service protocol: http://127.0.0.1:64955/OsAHIhJmlLk=/
+[ +109 ms] Launching a Dart Developer Service (DDS) instance at http://127.0.0.1:0, connecting to VM service at http://127.0.0.1:64955/OsAHIhJmlLk=/.
+[ +123 ms] Successfully connected to service protocol: http://127.0.0.1:64955/OsAHIhJmlLk=/
+[  +60 ms] DevFS: Creating new filesystem on the device (null)
+[  +13 ms] DevFS: Created new filesystem on the device (file:///Users/srujangogineni/Library/Developer/CoreSimulator/Devices/0B25D54B-D719-44D6-9A89-0AC591C92EEF/data/Containers/Data/Application/4D058D47-66E9-445D-81DF-C40C6D2803B9/tmp/club_connect-mainSxUIli/club_connect-main/)
+[   +2 ms] Updating assets
+[        ] runHooks() with {TargetFile: /Users/srujangogineni/projects/club_connect-main/lib/main.dart, BuildMode: debug} and TargetPlatform.ios
+[        ] runHooks() - will perform dart build
+[   +1 ms] Initializing file store
+[        ] Done initializing file store
+[  +12 ms] Skipping target: dart_build
+[        ] Persisting file store
+[   +2 ms] Done persisting file store
+[   +3 ms] runHooks() - done
+[ +154 ms] Syncing files to device test...
+[   +2 ms] Compiling dart to kernel with 0 updated files
+[        ] Processing bundle.
+[   +1 ms] <- recompile package:club_connect/main.dart dc7017f9-f8f7-4c54-882a-2e361db03be6
+[        ] <- dc7017f9-f8f7-4c54-882a-2e361db03be6
+[   +1 ms] Bundle processing done.
+[  +21 ms] Service protocol connection closed.
+[        ] Lost connection to device.
+[  +74 ms] Updating files.
+[        ] Pending asset builds completed. Writing dirty entries.
+[        ] DevFS: Sync finished
+[        ] Syncing files to device test... (completed in 101ms)
+[        ] Synced 0.0MB.
+[        ] <- accept
+[   +2 ms] Flutter run key commands.
+[   +1 ms] r Hot reload. 🔥🔥🔥
+[        ] R Hot restart.
+[        ] h List all available interactive commands.
+[        ] d Detach (terminate "flutter run" but leave application running).
+[        ] c Clear the screen
+[        ] q Quit (terminate the application on the device).
+[        ] A Dart VM Service on test is available at: http://127.0.0.1:64959/IcyWbkHu7bk=/
+[        ] The Flutter DevTools debugger and profiler on test is available at: http://127.0.0.1:64959/IcyWbkHu7bk=/devtools/?uri=ws://127.0.0.1:64959/IcyWbkHu7bk=/ws
+[   +7 ms] executing: sw_vers -productName
+[  +25 ms] Exit code 0 from: sw_vers -productName
+[        ] macOS
+[        ] executing: sw_vers -productVersion
+[  +24 ms] Exit code 0 from: sw_vers -productVersion
+[        ] 15.4.1
+[        ] executing: sw_vers -buildVersion
+[  +20 ms] Exit code 0 from: sw_vers -buildVersion
+[        ] 24E263
+[        ] executing: uname -m
+[   +9 ms] Exit code 0 from: uname -m
+[        ] x86_64
+[  +12 ms] DevFS: Deleting filesystem on the device (file:///Users/srujangogineni/Library/Developer/CoreSimulator/Devices/0B25D54B-D719-44D6-9A89-0AC591C92EEF/data/Containers/Data/Application/4D058D47-66E9-445D-81DF-C40C6D2803B9/tmp/club_connect-mainSxUIli/club_connect-main/)
+[        ] DevFS: Deleted filesystem on the device (file:///Users/srujangogineni/Library/Developer/CoreSimulator/Devices/0B25D54B-D719-44D6-9A89-0AC591C92EEF/data/Containers/Data/Application/4D058D47-66E9-445D-81DF-C40C6D2803B9/tmp/club_connect-mainSxUIli/club_connect-main/)
+[   +3 ms] "flutter run" took 42,029ms.
+[   +4 ms] Running 3 shutdown hooks
+[   +8 ms] Shutdown hooks complete
+[ +125 ms] exiting with code 0

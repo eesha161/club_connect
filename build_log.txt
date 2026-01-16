@@ -1,0 +1,78 @@
+Resolving dependencies...
+Downloading packages...
+  characters 1.4.0 (1.4.1 available)
+  flutter_launcher_icons 0.13.1 (0.14.4 available)
+  image 4.5.4 (4.7.2 available)
+  matcher 0.12.17 (0.12.18 available)
+  material_color_utilities 0.11.1 (0.13.0 available)
+  test_api 0.7.7 (0.7.8 available)
+Got dependencies!
+6 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Building com.example.clubConnect for simulator (ios)...
+Running Xcode build...                                          
+Xcode build done.                                           30.4s
+Failed to build iOS app
+Error output from Xcode build:
+↳
+    ** BUILD FAILED **
+
+
+Xcode's output:
+↳
+    Writing result bundle at path:
+    	/var/folders/9d/_3ctzw4d1vz6c83t23nscmxh0000gn/T/flutter_tools.dHIdfi/flutter_ios_build_temp_dirLqKbvb/temporary_xcresult_bundle
+
+    lib/screens/club_details_screen.dart:276:57: Error: Can't find '}' to match '{'.
+                                        onPressed: () async {
+                                                            ^
+    lib/main.dart:100:63: Error: Not a constant expression.
+          home: showOnboarding ? const OnboardingScreen() : const AuthWrapper(),
+                                                                  ^^^^^^^^^^^
+    lib/main.dart:102:33: Error: Not a constant expression.
+            '/': (context) => const AuthWrapper(),
+                                    ^^^^^^^^^^^
+    lib/services/user_service.dart:50:13: Error: The method 'NotificationService' isn't defined for the type 'UserService'.
+     - 'UserService' is from 'package:club_connect/services/user_service.dart' ('lib/services/user_service.dart').
+    Try correcting the name to the name of an existing method, or defining a method named 'NotificationService'.
+          await NotificationService().subscribeToClub(clubId);
+                ^^^^^^^^^^^^^^^^^^^
+    lib/services/user_service.dart:64:13: Error: The method 'NotificationService' isn't defined for the type 'UserService'.
+     - 'UserService' is from 'package:club_connect/services/user_service.dart' ('lib/services/user_service.dart').
+    Try correcting the name to the name of an existing method, or defining a method named 'NotificationService'.
+          await NotificationService().unsubscribeFromClub(clubId);
+                ^^^^^^^^^^^^^^^^^^^
+    lib/screens/club_details_screen.dart:313:37: Error: Expected an identifier, but got ','.
+    Try inserting an identifier before ','.
+                                       },
+                                        ^
+    lib/screens/club_details_screen.dart:313:36: Error: Expected ';' after this.
+                                       },
+                                       ^
+    lib/screens/club_details_screen.dart:313:37: Error: Unexpected token ';'.
+                                       },
+                                        ^
+    lib/screens/club_details_screen.dart:14:1: Error: 'Event' is imported from both 'package:add_2_calendar/src/model/event.dart' and 'package:club_connect/models/event.dart'.
+    import 'package:add_2_calendar/add_2_calendar.dart';
+    ^^^^^
+    lib/screens/club_details_screen.dart:256:61: Error: The method 'CalendarEvent' isn't defined for the type 'ClubDetailsScreen'.
+     - 'ClubDetailsScreen' is from 'package:club_connect/screens/club_details_screen.dart' ('lib/screens/club_details_screen.dart').
+    Try correcting the name to the name of an existing method, or defining a method named 'CalendarEvent'.
+                                          final calendarEvent = CalendarEvent(
+                                                                ^^^^^^^^^^^^^
+    lib/screens/event_checkin_screen.dart:20:13: Error: The method 'DefaultTabBarController' isn't defined for the type 'EventCheckInScreen'.
+     - 'EventCheckInScreen' is from 'package:club_connect/screens/event_checkin_screen.dart' ('lib/screens/event_checkin_screen.dart').
+    Try correcting the name to the name of an existing method, or defining a method named 'DefaultTabBarController'.
+          body: DefaultTabBarController(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+    Target kernel_snapshot_program failed: Exception
+    Failed to package /Users/srujangogineni/projects/club_connect-main.
+    Command PhaseScriptExecution failed with a nonzero exit code
+    warning: Run script build phase 'Create Symlinks to Header Folders' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'BoringSSL-GRPC' from project 'Pods')
+    warning: Run script build phase 'Create Symlinks to Header Folders' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'abseil' from project 'Pods')
+    note: Run script build phase 'Run Script' will be run during every build because the option to run the script phase "Based on dependency analysis" is unchecked. (in target 'Runner' from project 'Runner')
+    note: Run script build phase 'Thin Binary' will be run during every build because the option to run the script phase "Based on dependency analysis" is unchecked. (in target 'Runner' from project 'Runner')
+    warning: Run script build phase 'Create Symlinks to Header Folders' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'gRPC-Core' from project 'Pods')
+    warning: Run script build phase 'Create Symlinks to Header Folders' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'gRPC-C++' from project 'Pods')
+
+Encountered error while building for simulator.
